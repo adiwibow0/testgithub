@@ -1,3 +1,6 @@
 Ini isi file aaa.txt
 
+
 Ini baris baru dr Adi
+Ini baris baru dr Aaron
+
