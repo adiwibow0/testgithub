@@ -1,3 +1,1 @@
 Ini isi file aaa.txt
-
-baris baru dari aac
